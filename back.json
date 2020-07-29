@@ -1,0 +1,86 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "files.autoSave": "off",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "cssrem.rootFontSize": 20,
+  "sync.gist": "095be2d525ef8c66da7845de56aa749d",
+  "sync.forceUpload": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "fileheader.Author": "mikey.yangwl",
+  "fileheader.LastModifiedBy": "mikey.yangwl",
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection":
+    "automaticallyOverrodeDefaultValue",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "php.validate.executablePath":
+    "D:/phpstudy_pro/Extensions/php/php7.3.4nts/php.exe",
+  "git.enableSmartCommit": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "wxml": "html"
+  },
+  "explorer.compactFolders": false,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "less.compile": {
+    "outExt": ".wxss"
+  },
+  "[less]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "files.associations": {
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript"
+  },
+  "minapp-vscode.disableAutoConfig": true,
+  "workbench.colorTheme": "Monokai",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.port": 5000,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.renameOnType": true,
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {},
+  "prettier.eslintIntegration": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "vetur.format.defaultFormatter.js": "vscode-typescript",
+  "vetur.format.defaultFormatterOptions": {
+    "js-beautify-html": {
+      "wrap_attributes": "force-aligned"
+    }
+  },
+  "window.zoomLevel": -1,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "editor.renderControlCharacters": true,
+  "editor.renderWhitespace": "all",
+  "eslint.enable": false
+}
